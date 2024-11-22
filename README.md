@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Sourabh Dongre</h1>
 <h3 align="center">“Data Scientist | Expert in Machine Learning & Predictive Analytics”</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1">
+<img align="right" alt="Coding" width="350" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1">
 
 - 🔭 I’m currently working on **Gen AI ChatBot**
 
-- 📫 How to reach me **sourabhdongre1794@gmaail.com**
+- 📫 How to reach me **sourabhdongre1794@gmail.com**
 
 - 📄 Know about my experiences [3+ years experience in Data Science]
 
@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Python, SQL, Numpy, Pandas, Scikit-Learn, Matplotlib, Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Artificial Intelligence, Opencv, Forecasting Skills, Exploratory Data Analysis, Statistics, CNN, RNN
+Python, SQL, Numpy, Pandas, Scikit-Learn, Matplotlib, Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Artificial Intelligence, Opencv, Forecasting Skills, Exploratory Data Analysis, Statistics, CNN, RNN 
 </p>
 </p>
 
